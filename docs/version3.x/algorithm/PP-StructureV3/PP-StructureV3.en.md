@@ -35,16 +35,16 @@
   <tr> 
    <td rowspan="9">Pipeline Tools</td> 
    <td><b>PP-structureV3</b></td> 
-   <td><b>0.147</b></td> 
-   <td><b>0.212</b></td> 
-   <td>0.059</td> 
-   <td><b>0.09</b></td> 
+   <td><b>0.145</b></td> 
+   <td><b>0.206</b></td> 
+   <td>0.058</td> 
+   <td><b>0.088</b></td> 
    <td>0.295</td> 
    <td>0.535</td> 
    <td>0.159</td> 
    <td><b>0.109</b></td> 
-   <td>0.075</td> 
-   <td><b>0.114</b></td> 
+   <td>0.069</td> 
+   <td><b>0.091</b></td> 
   </tr> 
   <tr> 
    <td>MinerU-0.9.3</td> 
@@ -340,12 +340,12 @@ In the following PP-StructureV3 configuration, please refer to [PP-OCRv5](../PP-
   </td>
   <td rowspan="2">
    Peak RAM Usage
-    （MB）
+    （GB）
   </td>
   <td rowspan="2">
    Average RAM
   Usage
-    （MB）
+    （GB）
   </td>
   <td rowspan="2">
    Average GPU
@@ -353,12 +353,12 @@ In the following PP-StructureV3 configuration, please refer to [PP-OCRv5](../PP-
   </td>
   <td rowspan="2">
    Peak VRAM Usage
-    （MB）
+    （GB）
   </td>
   <td rowspan="2">
    Average VRAM
   Usage
-    （MB）
+    （GB）
   </td>
  </tr>
  <tr>
@@ -640,12 +640,12 @@ In the following PP-StructureV3 configuration, please refer to [PP-OCRv5](../PP-
   </td>
   <td rowspan="2">
    Peak RAM Usage
-    （MB）
+    （GB）
   </td>
   <td rowspan="2">
    Average RAM
   Usage
-    （MB）
+    （GB）
   </td>
   <td rowspan="2">
    Average GPU
@@ -653,12 +653,12 @@ In the following PP-StructureV3 configuration, please refer to [PP-OCRv5](../PP-
   </td>
   <td rowspan="2">
    Peak VRAM Usage
-    （MB）
+    （GB）
   </td>
   <td rowspan="2">
    Average VRAM
   Usage
-    （MB）
+    （GB）
   </td>
  </tr>
  <tr>
@@ -933,14 +933,14 @@ The serving inference test is based on the NVIDIA A100 + Intel Xeon Platinum 835
    <td>Success Number/Total Number</td> 
   </tr> 
   <tr"> 
-   <td>4 GPUs ✖️ 1实例/卡</td> 
+   <td>4 GPUs ✖️ 1 instance/gpu</td> 
    <td>4</td> 
    <td>1.69</td> 
    <td>2.36</td> 
    <td>100%</td> 
   </tr> 
   <tr"> 
-   <td>4 GPUs ✖️ 4实例/卡</td> 
+   <td>4 GPUs ✖️ 4 instances/gpu</td> 
    <td>16</td> 
    <td>4.05</td> 
    <td>3.87</td> 

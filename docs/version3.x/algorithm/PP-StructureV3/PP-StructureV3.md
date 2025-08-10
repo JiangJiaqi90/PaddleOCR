@@ -34,16 +34,16 @@
   <tr> 
    <td rowspan="9">Pipeline Tools</td> 
    <td><b>PP-structureV3</b></td> 
-   <td><b>0.147</b></td> 
-   <td><b>0.212</b></td> 
-   <td>0.059</td> 
-   <td><b>0.09</b></td> 
+   <td><b>0.145</b></td> 
+   <td><b>0.206</b></td> 
+   <td>0.058</td> 
+   <td><b>0.088</b></td> 
    <td>0.295</td> 
    <td>0.535</td> 
    <td>0.159</td> 
    <td><b>0.109</b></td> 
-   <td>0.075</td> 
-   <td><b>0.114</b></td> 
+   <td>0.069</td> 
+   <td><b>0.091</b></td> 
   </tr> 
   <tr> 
    <td>MinerU-0.9.3</td> 
@@ -338,11 +338,11 @@
   </td>
   <td rowspan="2">
    峰值RAM用量
-    （MB）
+    （GB）
   </td>
   <td rowspan="2">
    平均RAM用量
-    （MB）
+    （GB）
   </td>
   <td rowspan="2">
    平均GPU利用率
@@ -350,11 +350,11 @@
   </td>
   <td rowspan="2">
    峰值VRAM用量
-    （MB）
+    （GB）
   </td>
   <td rowspan="2">
    平均VRAM用量
-    （MB）
+    （GB）
   </td>
  </tr>
  <tr>
@@ -634,11 +634,11 @@
   </td>
   <td rowspan="2">
    峰值RAM用量
-    （MB）
+    （GB）
   </td>
   <td rowspan="2">
    平均RAM用量
-    （MB）
+    （GB）
   </td>
   <td rowspan="2">
    平均GPU利用率
@@ -646,11 +646,11 @@
   </td>
   <td rowspan="2">
    峰值VRAM用量
-    （MB）
+    （GB）
   </td>
   <td rowspan="2">
    平均VRAM用量
-    （MB）
+    （GB）
   </td>
  </tr>
  <tr>
